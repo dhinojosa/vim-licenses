@@ -66,7 +66,6 @@ if !exists('g:licenses_default_commands')
         \, 'mpl'
         \, 'unlicense'
         \, 'verbatim'
-        \, 'wtfpl'
         \, 'zlib'
     \]
 endif

@@ -92,9 +92,6 @@ Commands:
 :Unlicense
     Add the Unlicense to the buffer.
 
-:Wtfpl
-    Add the Do What The Fuck You Want To Public License (WTFPL) to the buffer.
-
 :Zlib
     Add the Zlib License to the buffer.
 
